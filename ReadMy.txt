@@ -1,0 +1,2 @@
+Просмотр блок-схемы Flowchart.drawio возможен через 
+ресурс по ссылке: https://app.diagrams.net
